@@ -23,6 +23,6 @@ Learn the Go programming language in this full course for beginners. You'll prac
  P2. Chi router\  
  P3. Postgres database\  
  P4. Authentication w/ API keys\  
- P5. Many to many relationships\ 
- P6. Aggregation worker\  
+ P5. Many to many relationships\   
+ P6. Aggregation worker\   
  P7. Viewing blog posts\  
